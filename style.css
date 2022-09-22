@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, purple, rgb(230, 102, 255));
+}
+
+button
+{   
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-decoration: none;
+    margin: 10px 20px;
+    padding: 20px 10px;
+    background-color: rgb(152, 99, 201);
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: larger;
+    transition: 0.5s;
+}
+button:hover
+{  
+    font-family: 'Courier New', Courier, monospace;
+    padding: 30px 30px;
+    background-color: blueviolet;
+    transition: 0.5s;
+}
